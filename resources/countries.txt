@@ -1,0 +1,4 @@
+America,420000000
+Michigan,1000000000
+Canada,1000
+China,50
